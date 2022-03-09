@@ -7,9 +7,9 @@ requires node.js and npm
 command line (bash or zsh)
 cd into directory you want to create project
 
-git clone git@github.com:da5id5/enchilada.git
+git clone git@github.com:da5id5/boiler-parallax-demo.git
 
-mv enchilada URnewProjectName
+mv boiler-parallax-demo URnewProjectName
 
 cd into URnewProjectName
 
